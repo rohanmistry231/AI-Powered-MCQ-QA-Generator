@@ -1,0 +1,11 @@
+streamlit
+PyPDF2
+python-dotenv
+transformers
+torch
+fitz
+requests
+langchain
+langchain-community
+chromadb
+docx2txt
