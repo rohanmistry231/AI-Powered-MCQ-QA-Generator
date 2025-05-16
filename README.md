@@ -1,4 +1,4 @@
-# AI-Powered MCQ and Q&A Generator
+# 🧠 AI-Powered MCQ and Q&A Generator
 
 Welcome to the **AI-Powered MCQ and Q&A Generator**, a cutting-edge tool designed to transform your documents into interactive learning resources! This project leverages advanced natural language processing (NLP) models to generate multiple-choice questions (MCQs) and provide answers to custom questions based on uploaded documents. Whether you're a student, educator, or professional, this tool simplifies studying and content exploration with an intuitive interface and robust functionality.
 
@@ -24,7 +24,7 @@ Welcome to the **AI-Powered MCQ and Q&A Generator**, a cutting-edge tool designe
 ### Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/AI-Powered-MCQ-QA-Generator.git
+   git clone https://github.com/rohanmistry231/AI-Powered-MCQ-QA-Generator.git
    cd AI-Powered-MCQ-QA-Generator
    ```
 
